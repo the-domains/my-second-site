@@ -1,6 +1,6 @@
 name: My Second Site
 favicon: null
-layout_spectrum: 0.70308
+layout_spectrum: 0.71856
 typography_spectrum: 0.60408
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.4375
   lightness: 0.6875
   saturation: 0.4375
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
