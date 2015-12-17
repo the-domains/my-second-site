@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[My Second Site]]></title>
         <description><![CDATA[My Second Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-second-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 09:14:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 09:15:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-second-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[URL Posting]]></title>
+            <description><![CDATA[<article><h1>URL Posting</h1><p>http://www.spiegel.de/politik/ausland/vorschau-auf-eu-gipfel-streit-ueber-fluechtlinge-und-brexit-a-1068198.html</p></article>]]></description>
+            <link>https://thegrid.ai/my-second-site/url-posting/index.html</link>
+            <guid isPermaLink="false">66efcdcd-5e1e-4662-bfda-1a25e2474498</guid>
+            <pubDate>Thu, 17 Dec 2015 09:15:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The is our new post's title]]></title>
             <description><![CDATA[<article><h1>The is our new post's title</h1><p>Here's my newest Post!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e71fb3f1a8022d6106f211aeaacd8e21b092fa0b.jpg"></article>]]></description>
-            <link>undefinedthe-is-our-new-posts-title/index.html</link>
+            <link>https://thegrid.ai/my-second-site/the-is-our-new-posts-title/index.html</link>
             <guid isPermaLink="false">f3e7e3ab-1a0e-46b6-9b89-d08fcfbd5bd0</guid>
             <pubDate>Thu, 17 Dec 2015 09:14:15 GMT</pubDate>
         </item>
